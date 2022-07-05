@@ -1,0 +1,40 @@
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.exe.config
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.exe
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.pdb
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.AssemblyReference.cache
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo_da_memória_do_Dani.Form1.resources
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo_da_memória_do_Dani.Properties.Resources.resources
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.GenerateResource.cache
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.CoreCompileInputs.cache
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.exe
+E:\dani\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.pdb
+E:\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.exe.config
+E:\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.exe
+E:\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.pdb
+E:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.AssemblyReference.cache
+E:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo_da_memória_do_Dani.Form1.resources
+E:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo_da_memória_do_Dani.Properties.Resources.resources
+E:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.GenerateResource.cache
+E:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.CoreCompileInputs.cache
+E:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.exe
+E:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.pdb
+D:\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.exe.config
+D:\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.exe
+D:\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.pdb
+D:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.AssemblyReference.cache
+D:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo_da_memória_do_Dani.Form1.resources
+D:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo_da_memória_do_Dani.Properties.Resources.resources
+D:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.GenerateResource.cache
+D:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.CoreCompileInputs.cache
+D:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.exe
+D:\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.pdb
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.exe.config
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.exe
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\bin\Debug\Jogo da memória do Dani.pdb
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.AssemblyReference.cache
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo_da_memória_do_Dani.Form1.resources
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo_da_memória_do_Dani.Properties.Resources.resources
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.GenerateResource.cache
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.csproj.CoreCompileInputs.cache
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.exe
+E:\Fonte( C#)\Fonte( C#)\Fonte( C#)\vscode 2019\Jogo da memória do Dani\Jogo da memória do Dani\obj\Debug\Jogo da memória do Dani.pdb
